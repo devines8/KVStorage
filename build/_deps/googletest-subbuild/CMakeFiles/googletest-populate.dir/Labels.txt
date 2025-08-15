@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+/home/devines/vk_test_assignment/Storage/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+/home/devines/vk_test_assignment/Storage/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule
+/home/devines/vk_test_assignment/Storage/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule
+/home/devines/vk_test_assignment/Storage/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule
+/home/devines/vk_test_assignment/Storage/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule
+/home/devines/vk_test_assignment/Storage/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule
+/home/devines/vk_test_assignment/Storage/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule
+/home/devines/vk_test_assignment/Storage/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule
+/home/devines/vk_test_assignment/Storage/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule
+/home/devines/vk_test_assignment/Storage/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule
+/home/devines/vk_test_assignment/Storage/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule
