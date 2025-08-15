@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/kv_storage_tests.dir/tests/test_kv_storage.cpp.o -o kv_storage_tests  lib/libgtest_main.a lib/libgtest.a 
